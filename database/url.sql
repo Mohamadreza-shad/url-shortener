@@ -1,17 +1,9 @@
--- name: CreateOrder :one
-INSERT INTO orders (
-    source_key_id,
-    order_uuid,
-    plan, 
-    amount 
+-- name: ShortenUrl :one
+INSERT INTO urls (
+    long_url,
+    short_url,
+    expired_at
 ) VALUES (
-    $1, $2, $3, $4
+    $1, $2, $3
 ) returning *;
 
--- name: GetOrdersBySourceKeyID :many
-SELECT * FROM orders 
-WHERE source_key_id = $1;
-
--- name: GetOrderUUIDsByAnOrderUUIDList :many
-SELECT order_uuid FROM orders
-WHERE order_uuid = ANY ($1::uuid[]);

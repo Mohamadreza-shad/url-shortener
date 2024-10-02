@@ -17,11 +17,12 @@ const (
 var cfg *Config = &Config{}
 
 type Config struct {
-	Server      Server
-	Postgres    Postgres
-	Env         string
-	Redis       RedisConfigs
-	Hostname    string
+	Server   Server
+	Postgres Postgres
+	Env      string
+	Redis    RedisConfigs
+	Hostname string
+	Salt     Salt
 }
 
 func GetEnv() string {
