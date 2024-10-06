@@ -39,3 +39,37 @@ func (q *Queries) ShortenUrl(ctx context.Context, db DBTX, arg ShortenUrlParams)
 	)
 	return i, err
 }
+
+const urlByLongUrl = `-- name: UrlByLongUrl :one
+SELECT id, long_url, short_url, created_at, expired_at FROM urls WHERE long_url = $1
+`
+
+func (q *Queries) UrlByLongUrl(ctx context.Context, db DBTX, longUrl string) (Url, error) {
+	row := db.QueryRow(ctx, urlByLongUrl, longUrl)
+	var i Url
+	err := row.Scan(
+		&i.ID,
+		&i.LongUrl,
+		&i.ShortUrl,
+		&i.CreatedAt,
+		&i.ExpiredAt,
+	)
+	return i, err
+}
+
+const urlByShortUrl = `-- name: UrlByShortUrl :one
+SELECT id, long_url, short_url, created_at, expired_at FROM urls WHERE short_url = $1
+`
+
+func (q *Queries) UrlByShortUrl(ctx context.Context, db DBTX, shortUrl string) (Url, error) {
+	row := db.QueryRow(ctx, urlByShortUrl, shortUrl)
+	var i Url
+	err := row.Scan(
+		&i.ID,
+		&i.LongUrl,
+		&i.ShortUrl,
+		&i.CreatedAt,
+		&i.ExpiredAt,
+	)
+	return i, err
+}
