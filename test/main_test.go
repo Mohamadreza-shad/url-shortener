@@ -60,6 +60,6 @@ func getRedis() redis.UniversalClient {
 
 func truncateDB() error {
 	ctx := context.Background()
-	_, err := getDB().Exec(ctx, "TRUNCATE TABLE source_keys CASCADE")
+	_, err := getDB().Exec(ctx, "TRUNCATE TABLE urls CASCADE")
 	return err
 }
