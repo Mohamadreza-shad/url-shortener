@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1035" dy="654" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1642" dy="785" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -70,7 +70,7 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-16" value="Sends sms to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-15">
           <mxGeometry x="0.0024" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-64" y="-87" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-18" value="Binance&lt;div&gt;(software system)&lt;/div&gt;&lt;div&gt;Provides APIs for placing and managing cryptocurrency trading orders&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -133,6 +133,49 @@
           <mxGeometry x="-0.0027" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-33" value="GBit Service&lt;br&gt;(software system)&lt;br&gt;Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="817" y="12" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="623.0000000000002" y="357.0000000000001" as="sourcePoint" />
+            <mxPoint x="817.0000000000002" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-35" value="Sends an IPG&lt;div&gt;&amp;nbsp;request&lt;div&gt;&amp;nbsp;for end-user&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-34">
+          <mxGeometry x="-0.0027" y="-1" relative="1" as="geometry">
+            <mxPoint x="-41" y="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-36" value="Now-Nodes Service&lt;br&gt;&lt;div&gt;(software system)&lt;/div&gt;&lt;div&gt;Provides API access to full blockchain nodes, enabling seamless interactions like querying data and broadcasting transactions for cryptocurrencies without maintaining dedicated infrastructure&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="267" y="538" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-1" target="WGUbzs4_qnekl62kQ5Hl-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="486" y="468" as="sourcePoint" />
+            <mxPoint x="536" y="418" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-38" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-37">
+          <mxGeometry x="-0.0194" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-39" value="Tatum Service&lt;br&gt;&lt;div&gt;(software system)&lt;/div&gt;&lt;div&gt;Offers blockchain infrastructure and APIs, enabling seamless integration of blockchain functionalities like transactions, and data retrieval across multiple blockchain networks.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="73" y="538" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.463;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-1" target="WGUbzs4_qnekl62kQ5Hl-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364" y="398" as="sourcePoint" />
+            <mxPoint x="414" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-41" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="248.004350561244" y="471.99745618066225" as="geometry" />
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-42" value="Tatum Service&lt;br&gt;&lt;div&gt;(software system)&lt;/div&gt;&lt;div&gt;Offers blockchain infrastructure and APIs, enabling seamless integration of blockchain functionalities like transactions, and data retrieval across multiple blockchain networks.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-121" y="538" width="162" height="162" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
