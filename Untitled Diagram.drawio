@@ -174,8 +174,19 @@
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-41" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="248.004350561244" y="471.99745618066225" as="geometry" />
         </mxCell>
-        <mxCell id="WGUbzs4_qnekl62kQ5Hl-42" value="Tatum Service&lt;br&gt;&lt;div&gt;(software system)&lt;/div&gt;&lt;div&gt;Offers blockchain infrastructure and APIs, enabling seamless integration of blockchain functionalities like transactions, and data retrieval across multiple blockchain networks.&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-42" value="TronGrid Service&lt;br&gt;&lt;div&gt;(software system)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-121" y="538" width="162" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-1" target="WGUbzs4_qnekl62kQ5Hl-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="349" as="sourcePoint" />
+            <mxPoint x="-39" y="531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-45" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-43">
+          <mxGeometry x="0.4194" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
