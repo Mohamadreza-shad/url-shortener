@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="963" dy="7608" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1492" dy="7970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,8 +30,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-53" target="WGUbzs4_qnekl62kQ5Hl-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1929" y="-5988" as="sourcePoint" />
-            <mxPoint x="1929" y="-6098" as="targetPoint" />
+            <mxPoint x="1931" y="-5988" as="sourcePoint" />
+            <mxPoint x="1931" y="-6098" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-14" value="Sends sms using" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-13">
@@ -41,8 +41,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.005;entryY=0.669;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-60" target="WGUbzs4_qnekl62kQ5Hl-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1933" y="-6125" as="sourcePoint" />
-            <mxPoint x="2156.9999999999995" y="-5861" as="targetPoint" />
+            <mxPoint x="1935" y="-6125" as="sourcePoint" />
+            <mxPoint x="2158.9999999999995" y="-5861" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-16" value="Sends sms to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-15">
@@ -52,8 +52,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WGUbzs4_qnekl62kQ5Hl-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1931.33" y="-5821" as="sourcePoint" />
-            <mxPoint x="1931.33" y="-5721" as="targetPoint" />
+            <mxPoint x="1933.33" y="-5821" as="sourcePoint" />
+            <mxPoint x="1933.33" y="-5721" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-20" value="&lt;div&gt;Sends crypto orders to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-19">
@@ -63,8 +63,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-53" target="WGUbzs4_qnekl62kQ5Hl-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1787" y="-5934" as="sourcePoint" />
-            <mxPoint x="1674" y="-6117" as="targetPoint" />
+            <mxPoint x="1789" y="-5934" as="sourcePoint" />
+            <mxPoint x="1676" y="-6117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-23" value="Sends gold orders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-22">
@@ -74,14 +74,14 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.467;entryY=0.989;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-53" target="WGUbzs4_qnekl62kQ5Hl-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1686" y="-5912" as="sourcePoint" />
-            <mxPoint x="1383" y="-6095" as="targetPoint" />
+            <mxPoint x="1688" y="-5912" as="sourcePoint" />
+            <mxPoint x="1385" y="-6095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-55" target="WGUbzs4_qnekl62kQ5Hl-47">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2372.33" y="-5684" as="sourcePoint" />
-            <mxPoint x="2372.33" y="-5813" as="targetPoint" />
+            <mxPoint x="2374.33" y="-5684" as="sourcePoint" />
+            <mxPoint x="2374.33" y="-5813" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-32" value="Provides an IPG for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-31">
@@ -91,8 +91,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WGUbzs4_qnekl62kQ5Hl-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1932" y="-5821" as="sourcePoint" />
-            <mxPoint x="1969" y="-5628" as="targetPoint" />
+            <mxPoint x="1934" y="-5821" as="sourcePoint" />
+            <mxPoint x="1971" y="-5628" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-29" value="Sends an IPG request for end-user" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-28">
@@ -102,8 +102,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-47" target="WGUbzs4_qnekl62kQ5Hl-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2374" y="-6000" as="sourcePoint" />
-            <mxPoint x="2204" y="-6236" as="targetPoint" />
+            <mxPoint x="2376" y="-6000" as="sourcePoint" />
+            <mxPoint x="2206" y="-6236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-35" value="Sends an IPG&lt;div&gt;&amp;nbsp;request&lt;div&gt;&amp;nbsp;for end-user&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-34">
@@ -113,8 +113,8 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-53" target="WGUbzs4_qnekl62kQ5Hl-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1776" y="-5849" as="sourcePoint" />
-            <mxPoint x="1666" y="-5672" as="targetPoint" />
+            <mxPoint x="1778" y="-5849" as="sourcePoint" />
+            <mxPoint x="1668" y="-5672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-38" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-37">
@@ -124,17 +124,17 @@
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-53" target="WGUbzs4_qnekl62kQ5Hl-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1713.99" y="-5849.97" as="sourcePoint" />
-            <mxPoint x="1486" y="-5728" as="targetPoint" />
+            <mxPoint x="1715.99" y="-5849.97" as="sourcePoint" />
+            <mxPoint x="1488" y="-5728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-41" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1590.0043505612439" y="-5763.002543819338" as="geometry" />
+          <mxGeometry x="1592.0043505612439" y="-5763.002543819338" as="geometry" />
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-53" target="WGUbzs4_qnekl62kQ5Hl-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1635" y="-5852" as="sourcePoint" />
-            <mxPoint x="1134" y="-5671" as="targetPoint" />
+            <mxPoint x="1637" y="-5852" as="sourcePoint" />
+            <mxPoint x="1136" y="-5671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-45" value="Sends crypto withdraw&lt;div&gt;requests to&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-43">
@@ -144,13 +144,13 @@
         </mxCell>
         <object placeholders="1" c4Name="End-User" c4Type="Person" c4Description="Cryptian End-User" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-47">
           <mxCell style="html=1;fontSize=11;dashed=0;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];resizable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="2273" y="-6001" width="200" height="180" as="geometry" />
+            <mxGeometry x="2275" y="-6001" width="200" height="180" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-51" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.012;exitY=0.681;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-47" target="WGUbzs4_qnekl62kQ5Hl-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2257" y="-5880" as="sourcePoint" />
-            <mxPoint x="2064" y="-5880" as="targetPoint" />
+            <mxPoint x="2259" y="-5880" as="sourcePoint" />
+            <mxPoint x="2066" y="-5880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-52" value="&lt;span style=&quot;&quot;&gt;Views account balances&lt;/span&gt;&lt;div style=&quot;&quot;&gt;and mades payments&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;using&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-51">
@@ -160,57 +160,57 @@
         </mxCell>
         <object placeholders="1" c4Name="Cryptian Service" c4Type="Software System" c4Description="Allows End-users to purchase and sell crypto and gold" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-53">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1812" y="-5941" width="240" height="120" as="geometry" />
+            <mxGeometry x="1814" y="-5941" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="GBit Service" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-54">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="2253" y="-6245" width="240" height="120" as="geometry" />
+            <mxGeometry x="2255" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Toman Service" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="2253" y="-5671" width="240" height="120" as="geometry" />
+            <mxGeometry x="2255" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Binance" c4Type="Software System" c4Description="Provides APIs for placing and managing cryptocurrency trading orders" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-56">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1815" y="-5671" width="240" height="120" as="geometry" />
+            <mxGeometry x="1817" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Now-Nodes Service" c4Type="Software System" c4Description="Provides API access to full blockchain nodes, enabling seamless interactions like querying data and broadcasting transactions for cryptocurrencies without maintaining dedicated infrastructure" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-57">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1556" y="-5671" width="240" height="120" as="geometry" />
+            <mxGeometry x="1558" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Tatum Service" c4Type="Software System" c4Description="Offers blockchain infrastructure and APIs, enabling seamless integration of blockchain functionalities like transactions, and data retrieval across multiple blockchain networks." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1287" y="-5671" width="240" height="120" as="geometry" />
+            <mxGeometry x="1289" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="TronGrid Service" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-59">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1018" y="-5671" width="240" height="120" as="geometry" />
+            <mxGeometry x="1020" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="IGama" c4Type="Software System" c4Description="Sends SMS to end-users" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-60">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1812" y="-6245" width="240" height="120" as="geometry" />
+            <mxGeometry x="1814" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Talasi Service" c4Type="Software System" c4Description="Provides real-time gold price data and facilitates the delivery of physical gold" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-61">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1545" y="-6245" width="240" height="120" as="geometry" />
+            <mxGeometry x="1547" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Asan-Pardakht(AP) Service" c4Type="Software System" c4Description="Provides a range of solutions, including:&#xa;Mail services, Fullnode servers for ETH and BTC blockchains, and specialized services like Shahkar, Ghavi, and Sabt-Ahval." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-62">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1278" y="-6245" width="240" height="120" as="geometry" />
+            <mxGeometry x="1280" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="Cryptian" c4Type="SystemScopeBoundary" c4Application="Software System" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-65">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#FFFFFF;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="967" y="-6295" width="1601" height="799" as="geometry" />
+            <mxGeometry x="969" y="-6295" width="1601" height="799" as="geometry" />
           </mxCell>
         </object>
       </root>
