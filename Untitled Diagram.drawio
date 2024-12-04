@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4074" dy="8643" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="2437" dy="7521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -158,17 +158,17 @@
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Cryptian Service" c4Type="Software System" c4Description="Allows End-users to purchase and sell crypto and gold" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-53">
+        <object placeholders="1" c4Name="Cryptian" c4Type="Software System" c4Description="Allows End-users to purchase and sell crypto and gold" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-53">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1061B0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0D5091;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="1814" y="-5941" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Jibit Service" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-54">
+        <object placeholders="1" c4Name="Jibit" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-54">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2255" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Toman Service" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-55">
+        <object placeholders="1" c4Name="Toman" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-55">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2255" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
@@ -178,17 +178,17 @@
             <mxGeometry x="1817" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Now-Nodes Service" c4Type="Software System" c4Description="Provides API access to full blockchain nodes, enabling seamless interactions like querying data and broadcasting transactions for cryptocurrencies without maintaining dedicated infrastructure" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-57">
+        <object placeholders="1" c4Name="Now-Nodes" c4Type="Software System" c4Description="Provides API access to full blockchain nodes, enabling seamless interactions like querying data and broadcasting transactions for cryptocurrencies without maintaining dedicated infrastructure" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-57">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="1558" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Tatum Service" c4Type="Software System" c4Description="Offers blockchain infrastructure and APIs, enabling seamless integration of blockchain functionalities like transactions, and data retrieval across multiple blockchain networks." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-58">
+        <object placeholders="1" c4Name="Tatum" c4Type="Software System" c4Description="Offers blockchain infrastructure and APIs, enabling seamless integration of blockchain functionalities like transactions, and data retrieval across multiple blockchain networks." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-58">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="1289" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="TronGrid Service" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-59">
+        <object placeholders="1" c4Name="TronGrid" c4Type="Software System" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-59">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="1020" y="-5671" width="240" height="120" as="geometry" />
           </mxCell>
@@ -203,7 +203,7 @@
             <mxGeometry x="1547" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Asan-Pardakht(AP) Service" c4Type="Software System" c4Description="Provides a range of solutions, including:&#xa;Mail services, Fullnode servers for ETH and BTC blockchains, and specialized services like Shahkar, Ghavi, and Sabt-Ahval." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-62">
+        <object placeholders="1" c4Name="Asan-Pardakht(AP)" c4Type="Software System" c4Description="Provides a range of solutions, including:&#xa;Mail services, Fullnode servers for ETH and BTC blockchains, and specialized services like Shahkar, Ghavi, and Sabt-Ahval." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-62">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="1280" y="-6245" width="240" height="120" as="geometry" />
           </mxCell>
@@ -359,17 +359,6 @@
             <mxGeometry x="1350" y="-2283" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="WGUbzs4_qnekl62kQ5Hl-99" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WGUbzs4_qnekl62kQ5Hl-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1784" y="-2107" as="sourcePoint" />
-            <mxPoint x="1784" y="-2159" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="Container name" c4Type="Container" c4Technology="e.g. Oracle Database 12" c4Description="Description of storage type container role/responsibility." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-100">
-          <mxCell style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];resizable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="1664" y="-2280" width="240" height="120" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-103" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.468;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WGUbzs4_qnekl62kQ5Hl-104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1785" y="-1798" as="sourcePoint" />
@@ -429,7 +418,7 @@
             <mxGeometry x="2316" y="-4722" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Old Account Service" c4Type="Container" c4Technology="Go" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-114">
+        <object placeholders="1" c4Name="Old Account" c4Type="Container" c4Technology="Go" c4Description="" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-114">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2098" y="-2866" width="240" height="120" as="geometry" />
           </mxCell>
@@ -445,7 +434,7 @@
             <mxGeometry x="1922" y="-4458" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Wallet Service" c4Type="Container" c4Technology="Go" c4Description="Manages user wallets, handling operations such as balance tracking, cryptocurrency deposits, withdrawals, and transaction history." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-117">
+        <object placeholders="1" c4Name="Wallet" c4Type="Container" c4Technology="Go" c4Description="Manages user wallets, handling operations such as balance tracking, cryptocurrency deposits, withdrawals, and transaction history." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#E6E6E6&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-117">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2316" y="-4458" width="240" height="120" as="geometry" />
           </mxCell>
@@ -751,17 +740,17 @@
             <mxPoint x="2063" y="-3437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object placeholders="1" c4Name="Jibit Service" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-190">
+        <object placeholders="1" c4Name="Jibit" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-190">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2607" y="-4097" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Toman Service" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-191">
+        <object placeholders="1" c4Name="Toman" c4Type="Software System" c4Description="Provides an IPG for end-users to facilitate withdrawals and deposits in Iranian Rials within the Cryptian platform" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-191">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2607" y="-3808" width="240" height="120" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Now-Nodes Service" c4Type="Software System" c4Description="Provides API access to full blockchain nodes, enabling seamless interactions like querying data and broadcasting transactions for cryptocurrencies without maintaining dedicated infrastructure" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-192">
+        <object placeholders="1" c4Name="Now-Nodes" c4Type="Software System" c4Description="Provides API access to full blockchain nodes, enabling seamless interactions like querying data and broadcasting transactions for cryptocurrencies without maintaining dedicated infrastructure" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-192">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="2607" y="-3668" width="240" height="120" as="geometry" />
           </mxCell>
