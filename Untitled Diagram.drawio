@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3237" dy="7521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="2806" dy="7226" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -660,6 +660,50 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1714" y="-3926" as="sourcePoint" />
             <mxPoint x="1764" y="-3976" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-178" value="End-user sends offline deposit crypto request to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-170">
+          <mxGeometry x="0.1682" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="End-User Bank" c4Type="Software System" c4Description="Description of external software system." label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;%c4Name%&lt;/b&gt;&lt;/font&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;font color=&quot;#cccccc&quot;&gt;%c4Description%&lt;/font&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-171">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;metaEdit=1;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="2939" y="-3878" width="240" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-172" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-161" target="WGUbzs4_qnekl62kQ5Hl-171">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2910" y="-3930" as="sourcePoint" />
+            <mxPoint x="2960" y="-3980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-173" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-162" target="WGUbzs4_qnekl62kQ5Hl-171">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2910" y="-3930" as="sourcePoint" />
+            <mxPoint x="2960" y="-3980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-174" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-73" target="WGUbzs4_qnekl62kQ5Hl-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1856" y="-4027" as="sourcePoint" />
+            <mxPoint x="1906" y="-4077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-175" value="End-user sends online deposit asset request via IPC/Direct-Debit to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-174">
+          <mxGeometry x="0.0447" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-176" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-156" target="WGUbzs4_qnekl62kQ5Hl-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2135" y="-2981" as="sourcePoint" />
+            <mxPoint x="2185" y="-3031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-177" value="&lt;span style=&quot;color: rgb(255, 255, 255); background-color: rgb(77, 77, 77);&quot;&gt;trx-manager sends deposit asset request via IPC/Direct-Debit to&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-176">
+          <mxGeometry x="-0.1647" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
