@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2437" dy="7521" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="7114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -680,7 +680,7 @@
             <mxPoint x="2185" y="-3031" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WGUbzs4_qnekl62kQ5Hl-177" value="&lt;span style=&quot;color: rgb(255, 255, 255); background-color: rgb(77, 77, 77);&quot;&gt;trx-manager sends deposit asset&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: rgb(77, 77, 77);&quot;&gt;request via IPC/Direct-Debit to&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-176">
+        <mxCell id="WGUbzs4_qnekl62kQ5Hl-177" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;trx-manager sends deposit asset&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;request via IPC/Direct-Debit to&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-176">
           <mxGeometry x="-0.1647" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
