@@ -807,6 +807,26 @@
             </mxGeometry>
           </mxCell>
         </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="publish(consume) event on(from)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-200">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-114" target="WGUbzs4_qnekl62kQ5Hl-193">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="2626" y="-3130" as="sourcePoint" />
+              <mxPoint x="2866" y="-3130" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="publish(consume) event on(from)" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-202">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-107" target="WGUbzs4_qnekl62kQ5Hl-193">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="2381" y="-3110" as="sourcePoint" />
+              <mxPoint x="3290" y="-3085" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="1697" y="-2911" />
+                <mxPoint x="4466" y="-2911" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
