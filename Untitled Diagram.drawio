@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3665" dy="8363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
+    <mxGraphModel dx="2073" dy="7272" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#4D4D4D" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -260,17 +260,6 @@
             <mxGeometry x="1054" y="-679" width="200" height="170" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="WGUbzs4_qnekl62kQ5Hl-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-72" target="WGUbzs4_qnekl62kQ5Hl-77">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1077" y="-3720" as="sourcePoint" />
-            <mxPoint x="1127" y="-3770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WGUbzs4_qnekl62kQ5Hl-79" value="Sends Market online data to" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;labelBackgroundColor=#4D4D4D;" vertex="1" connectable="0" parent="WGUbzs4_qnekl62kQ5Hl-78">
-          <mxGeometry x="-0.0077" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WGUbzs4_qnekl62kQ5Hl-80" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.981;exitY=0.686;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WGUbzs4_qnekl62kQ5Hl-83">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1254" y="-595" as="sourcePoint" />
@@ -1026,6 +1015,17 @@
               <Array as="points">
                 <mxPoint x="1250" y="-4247" />
                 <mxPoint x="1250" y="-1989" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Description="Sends Market online data to" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;" id="WGUbzs4_qnekl62kQ5Hl-233">
+          <mxCell style="endArrow=blockThin;html=1;fontSize=10;fontColor=#404040;strokeWidth=1;endFill=1;strokeColor=#828282;elbow=vertical;metaEdit=1;endSize=14;startSize=14;jumpStyle=arc;jumpSize=16;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WGUbzs4_qnekl62kQ5Hl-72" target="WGUbzs4_qnekl62kQ5Hl-77">
+            <mxGeometry width="240" relative="1" as="geometry">
+              <mxPoint x="298" y="-2622" as="sourcePoint" />
+              <mxPoint x="362" y="-1602" as="targetPoint" />
+              <Array as="points">
+                <mxPoint x="804" y="-594" />
               </Array>
             </mxGeometry>
           </mxCell>
